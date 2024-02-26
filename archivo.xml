@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mi propio xml para podcast</title>
+    <link>https://www.rtve.es/play/audios/50/</link>
+    <description>Descripcion</description>
+    <language>es</language>
+    <pubDate>Mon, 26 Feb 2024 12:11:22 GMT</pubDate>
+    
+    <image>
+      <title>5.0</title>
+      <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
+      <link>https://www.rtve.es/play/audios/50/</link>
+    </image>
+
+     <itunes:owner>
+      <itunes:email>movil.irtve@rtve.es</itunes:email>
+      <itunes:name>RTVE</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://img2.rtve.es/imagenes/50/1624028284337.jpg"></itunes:image>
+    <itunes:category text="Science"></itunes:category>
+    <itunes:author>Radio 5</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords></itunes:keywords>
+    <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
+    
+      <item>
+      <title>Primer item</title>
+      <link>https://www.rtve.es/play/audios/50/50-celia-asistente-voz-ia-para-paliar-soledad-13-02-24/15967954/</link>
+      <description>Validando un xml</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/15967954.mp3" length="31273959" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>/iRTVE/Temáticas/Tercera Edad</category>
+      <category>/iRTVE/Temáticas/Inteligencia artificial</category>
+      <category>/iRTVE/Temáticas/Whatsapp</category>
+      <pubDate>Tue, 13 Feb 2024 17:30:26 GMT</pubDate>
+      <guid>https://www.rtve.es/a/15967954/</guid>
+    </item>
+  </channel>
+</rss>
